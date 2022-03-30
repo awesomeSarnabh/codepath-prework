@@ -2,11 +2,11 @@
 
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
-Submitted by: **NAME**
+Submitted by: **Sarnabh Mukhopadhyay**
 
-Time spent: **#** hours spent in total
+Time spent: 4 hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: https://glitch.com/edit/#!/surf-lead-airmail?path=index.html%3A1%3A0
 
 ## Required Functionality
 
@@ -22,19 +22,10 @@ The following **required** functionality is complete:
 
 The following **optional** features are implemented:
 
-* [ ] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
 * [ ] Buttons use a pitch (frequency) other than the ones in the tutorial
 * [ ] More than 4 functional game buttons
-* [ ] Playback speeds up on each turn
-* [ ] Computer picks a different pattern each time the game is played
-* [ ] Player only loses after 3 mistakes (instead of on the first mistake)
-* [ ] Game button appearance change goes beyond color (e.g. add an image)
-* [ ] Game button sound is more complex than a single tone (e.g. an audio file, a chord, a sequence of multiple tones)
-* [ ] User has a limited amount of time to enter their guess on each turn
 
-The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app!
 
 ## Video Walkthrough (GIF)
 
@@ -46,17 +37,25 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+NA
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+
+These are some of the questions I have after the pre-work:
+-	How to make engaging websites that impress the users and help them fulfill their purpose of coming to my website?
+-	I am also interested in learning about how social media websites work, and how they maintain their large database without bugs. 
+-	How to add pictures, videos, and sounds to a website, and wherein a website is it a good idea to add them?
+-	How to get access to domain names for individual websites, and how long does it generally take from the beginning of web development to a fully working             
+    website?
+-	What is different between app development and web development, and which is more suitable for what purposes?
+
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
 
+I would start by giving points and then storing the highest points of the player, which will motivate the player to play more often to beat the highest score. I also think that it will be fun making levels by adding more features like more buttons and faster tunes with different themed backgrounds, which will certainly make the game make more entertaining for the players. I also think shuffling the tune each time the game begins will make the game more random and unpredictable, which will further test the memory of the players. I also think that giving lives and adding themes will help the players stay motivated if they keep failing.
 
 
 ## Interview Recording URL Link
@@ -66,7 +65,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright Sarnabh Mukhopadhyay
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
