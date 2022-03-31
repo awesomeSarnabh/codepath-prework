@@ -30,16 +30,18 @@ The following **optional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](gif1-link-here)
-![](gif2-link-here)
-![](gif3-link-here)
-![](gif4-link-here)
+![ezgif-5-2d36db58be](https://user-images.githubusercontent.com/92769073/161156575-3e3749f7-cf93-45fb-8881-eb2825f99fe1.gif)
+![ezgif-4-59c1595fef](https://user-images.githubusercontent.com/92769073/161157105-878e75f4-292a-463a-9d96-1d475a7050a3.gif)
+
+
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
 NA
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
+
+Overall, I would say that the project went very smoothly because the instructions were very well laid out. Moreover, testing every step instead of debugging the whole thing at once definitely helped me catch any errors right away. But in a coding project, there is always one bug that takes more time than it should. In my case,  the bug was that when the computer played the hint, my buttons weren't lighting up, so I started looking at the button implementations in Html, which didn't seem to be the problem. So then I looked for the function implementation in the style.css tab and saw that I was missing the button. lit implementation, so I added it, and then it worked. In addition, adding another button was also a lot of fun, as I got a deeper understanding of the project itself. For example, I understood how the frequency is set and where the rhythm is coming from. To conclude, I would say that the project was a lot of fun, especially, because I could see my code in action after each step.
 
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
