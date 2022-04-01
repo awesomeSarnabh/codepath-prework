@@ -62,7 +62,7 @@ I would start by giving points and then storing the highest points of the player
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://www.loom.com/share/d806b4e4be4d4cb3a42c7932e01dbae8)
 
 
 ## License
